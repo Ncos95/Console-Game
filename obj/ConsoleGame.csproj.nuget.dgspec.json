@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ned-c\\codecademy\\End of Course Projects\\C#\\ConsoleGame.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ned-c\\codecademy\\End of Course Projects\\C#\\ConsoleGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ned-c\\codecademy\\End of Course Projects\\C#\\ConsoleGame.csproj",
+        "projectName": "ConsoleGame",
+        "projectPath": "C:\\Users\\ned-c\\codecademy\\End of Course Projects\\C#\\ConsoleGame.csproj",
+        "packagesPath": "C:\\Users\\ned-c\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ned-c\\codecademy\\End of Course Projects\\C#\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ned-c\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

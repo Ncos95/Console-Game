@@ -1,0 +1,4 @@
+C:\Users\ned-c\codecademy\End of Course Projects\C#\obj\Debug\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\ned-c\codecademy\End of Course Projects\C#\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\ned-c\codecademy\End of Course Projects\C#\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+C:\Users\ned-c\codecademy\End of Course Projects\C#\obj\Debug\netcoreapp2.2\ConsoleGame.csproj.CoreCompileInputs.cache

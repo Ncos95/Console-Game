@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9UGCcATKkIvPJHN5Vr7JOUKcXZTiCqq8yWEMh7wsRCo9ISlS/keihEVZX7FodZKtqyy0yiAz/QLDC0R31qslg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ned-c\\codecademy\\End of Course Projects\\C#\\ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ned-c\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\ned-c\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\ned-c\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\ned-c\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\ned-c\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\ned-c\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\ned-c\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
